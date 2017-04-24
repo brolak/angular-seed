@@ -13,4 +13,4 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: mati-angular-seed
+      appname: another-angular-seed
